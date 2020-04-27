@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f80559f-622b-40f2-a28c-d61558ae7e78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WVurbwBZTy5Sroi40jhHsVTlPq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RoadCamera" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="people age" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f80559f-622b-40f2-a28c-d61558ae7e78" name="Default Changelist" comment="" />
+      <created>1579247282714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579247282714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-835" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586481040586">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-835" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586481040586" />
+    <state x="276" y="121" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579693776904">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="276" y="121" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/-1024.87.1024.728@0.0.1280.680" timestamp="1579693776904" />
+    <state x="276" y="121" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579250515887" />
+    <state x="-1048" y="72" key="FileChooserDialogImpl" timestamp="1586481115091">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="298" y="67" key="FileChooserDialogImpl/0.0.1280.680/-1024.87.1024.728@0.0.1280.680" timestamp="1579897615299" />
+    <state x="-1048" y="72" key="FileChooserDialogImpl/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586481115091" />
+    <state x="298" y="67" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579257272859" />
+    <state width="1323" height="234" key="GridCell.Tab.0.bottom" timestamp="1586481116336">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1024.87.1024.728@0.0.1280.680" timestamp="1579897616417" />
+    <state width="1323" height="234" key="GridCell.Tab.0.bottom/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586481116336" />
+    <state width="1323" height="234" key="GridCell.Tab.0.center" timestamp="1586481116336">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1024.87.1024.728@0.0.1280.680" timestamp="1579897616416" />
+    <state width="1323" height="234" key="GridCell.Tab.0.center/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586481116336" />
+    <state width="1323" height="234" key="GridCell.Tab.0.left" timestamp="1586481116336">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1024.87.1024.728@0.0.1280.680" timestamp="1579897616416" />
+    <state width="1323" height="234" key="GridCell.Tab.0.left/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586481116336" />
+    <state width="1323" height="234" key="GridCell.Tab.0.right" timestamp="1586481116336">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1024.87.1024.728@0.0.1280.680" timestamp="1579897616417" />
+    <state width="1323" height="234" key="GridCell.Tab.0.right/0.0.1280.680/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586481116336" />
+  </component>
+</project>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8b30b7b-d0a6-4541-9ccd-a7446ede90ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZeSFdimxmb02kMmQU55HFGdTa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1 pets Conditionals challenge" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.GameKt">
+    <configuration name="GameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="1 pets" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GameKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntervalsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="1 pets" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="IntervalsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="1 pets" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.GameKt" />
+        <item itemvalue="Kotlin.IntervalsKt" />
+        <item itemvalue="Kotlin.TestKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8b30b7b-d0a6-4541-9ccd-a7446ede90ff" name="Default Changelist" comment="" />
+      <created>1585051041471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585051041471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1585160198935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585160198935" />
+    <state x="432" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1585739852449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="432" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585739852449" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1585846798189">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585846798189" />
+    <state width="1237" height="86" key="GridCell.Tab.0.bottom" timestamp="1585162835600">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.bottom/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585162835600" />
+    <state width="1237" height="86" key="GridCell.Tab.0.center" timestamp="1585162835600">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.center/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585162835600" />
+    <state width="1237" height="86" key="GridCell.Tab.0.left" timestamp="1585162835600">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.left/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585162835600" />
+    <state width="1237" height="86" key="GridCell.Tab.0.right" timestamp="1585162835600">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.right/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585162835600" />
+    <state x="221" y="84" key="IDE.errors.dialog" timestamp="1585051135088">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="84" key="IDE.errors.dialog/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585051135088" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1585840393221">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585840393221" />
+    <state x="91" y="0" key="new project wizard" timestamp="1585122185955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585122185955" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1585665692932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585665692932" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1585665743139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1585665743139" />
+  </component>
+</project>
